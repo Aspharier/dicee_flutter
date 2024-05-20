@@ -6,7 +6,10 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 In this project i made an app called dicee which does nothing just showcase the use of TextButton wideget in flutter that changes the image of the dice by using a random function and a dart variable if we click on it :)
+
 this is the image of the app -->>
+
+
 ![dice pic](https://github.com/Aspharier/dicee_flutter/assets/113495930/97ec4c88-5f77-492f-9b66-d7f5b50ab0f0)
 
 
