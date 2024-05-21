@@ -14,6 +14,12 @@ this is the image of the app -->>
 
 
 
+
+Here is the sample gif video
+
+
+![dice video](https://github.com/Aspharier/dicee_flutter/assets/113495930/4c743b0a-d992-4d4a-9f99-913aea9556e0)
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
